@@ -28,10 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: fluids
+      tag: fluids
+    - name: elasticity
+      tag: elasticity
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
