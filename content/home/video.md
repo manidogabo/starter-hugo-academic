@@ -50,4 +50,4 @@ subtitle = "Fluid Mediated Soft Actuators"
  css_class = ""
 +++
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube 61HpWDJ1bsw >}}
