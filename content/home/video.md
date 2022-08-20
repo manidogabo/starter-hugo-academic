@@ -25,8 +25,8 @@ subtitle = "Fluid Mediated Soft Actuators"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "Gray"
-  gradient_end = "White"
+  gradient_start = "Black"
+  gradient_end = "Gray"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
