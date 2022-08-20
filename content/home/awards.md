@@ -35,7 +35,7 @@ item:
   - title: Gallery of Soft Matter Award
     organization: American Physical Society - Division on Soft Matter
     date_start: '2022-03-01'
-    description: The gallery was to showcase the aesthetic and elegance of soft matter systems. I won the prize for video based on aesthetics and scientific explanation. You can check out the video on [[{{< icon name="youtube" pack="fab" >}}]-youtube](https://www.youtube.com/watch?v=61HpWDJ1bsw) or below.
+    description: The gallery was to showcase the aesthetic and elegance of soft matter systems. I won the prize for video based on aesthetics and scientific explanation. You can check out the video on [{{< icon name="youtube" pack="fab" >}} youtube](https://www.youtube.com/watch?v=61HpWDJ1bsw) or below.
     organization_url: https://physics.aps.org/articles/v15/41?utm_campaign=weekly&utm_medium=email&utm_source=emailalert
     url: https://physics.aps.org/articles/v15/41?utm_campaign=weekly&utm_medium=email&utm_source=emailalert
 
