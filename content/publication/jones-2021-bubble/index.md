@@ -17,6 +17,11 @@ lastmod: 2022-08-19T08:19:32-04:00
 featured: false
 draft: false
 
+# Custom links (uncomment lines below)
+links: 
+- name: Cover
+  url: publications/jones-2021-bubble/cover_nature_11_nov_2021.png
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
