@@ -7,7 +7,7 @@ summary: ''
 doi: '10.1038/s41567-020-0832-x'
 authors:
 - Etienne Jambon-Puillet
-- admin
+- Trevor J Jones
 - P-T Brun
 tags: [elasticity, fluids, impact]
 categories: [elasticity, fluids, impact]

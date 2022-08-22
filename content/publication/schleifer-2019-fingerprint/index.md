@@ -9,7 +9,7 @@ doi: '10.1039/C8SM02057D'
 authors:
 - Jonathan Schleifer
 - Joel Marthelot
-- admin
+- Trevor J Jones
 - P-T Brun
 tags: [elasticity, instability, pattern formation]
 categories: [elasticity, instability, pattern formation]

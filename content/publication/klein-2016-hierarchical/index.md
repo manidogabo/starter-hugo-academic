@@ -8,7 +8,7 @@ doi: '10.1007/978-981-10-1128-3_5'
 authors:
 - Christoph Klein
 - János Sallai
-- admin
+- Trevor J Jones
 - Christopher R Iacovella
 - Clare McCabe
 - Peter T Cummings

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 doi: ''
 authors:
-- admin
+- Trevor J Jones
 - Thomas Dupuis
 - Etienne Jambon-Puillet
 - Joel Marthelot

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 doi: '10.1038/s41567-020-0832-x'
 authors:
-- admin
+- Trevor J Jones
 - Etienne Jambon-Puillet
 - Joel Marthelot
 - P-T Brun
