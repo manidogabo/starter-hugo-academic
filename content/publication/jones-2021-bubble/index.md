@@ -27,7 +27,7 @@ links:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: 'Cover for Nature Magazine 11 November 2021'
-  focal_point: ''
+  focal_point: Top
   preview_only: false
 
 # Projects (optional).
