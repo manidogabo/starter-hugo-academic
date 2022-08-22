@@ -6,7 +6,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 150  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Gallery of Soft Matter"
 subtitle = "Fluid Mediated Soft Actuators"
@@ -25,8 +25,8 @@ subtitle = "Fluid Mediated Soft Actuators"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "Black"
-  gradient_end = "Gray"
+  # gradient_start = "Black"
+  # gradient_end = "Gray"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -36,7 +36,7 @@ subtitle = "Fluid Mediated Soft Actuators"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.

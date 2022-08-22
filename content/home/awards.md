@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
@@ -46,12 +46,12 @@ item:
     organization_url: https://engineering.princeton.edu/news/2021/12/08/award-excellence-honors-graduate-student-achievement-2
     url: https://engineering.princeton.edu/news/2021/12/08/award-excellence-honors-graduate-student-achievement-2
   
-  - title: EPrinceton Interview
-    organization:  Lac Courte Oreilles 
-    date_start: '2021-12-07'
-    description: Interview from EPrinceton for Native American Heritage Month. The interview was featured in the News & Information of the Lac Courte Oreilles Tribe. 
-    organization_url: https://www.lcotribe.com/
-    url: https://www.lcotribe.com/post/balloons-beadwork-and-native-heritage-are-inspiration-for-materials-engineer
+#   - title: EPrinceton Interview
+#     organization:  Lac Courte Oreilles 
+#     date_start: '2021-12-07'
+#     description: Interview from EPrinceton for Native American Heritage Month. The interview was featured in the News & Information of the Lac Courte Oreilles Tribe. 
+#     organization_url: https://www.lcotribe.com/
+#     url: https://www.lcotribe.com/post/balloons-beadwork-and-native-heritage-are-inspiration-for-materials-engineer
 
 
 design:
