@@ -20,7 +20,7 @@ draft: false
 # Custom links (uncomment lines below)
 links: 
 - name: Cover
-  url: content/publications/jones-2021-bubble/cover_nature_11_nov_2021.pdf
+  url: uploads/cover_nature_11_nov_2021.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
