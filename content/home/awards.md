@@ -42,7 +42,7 @@ item:
   - title: SEAS Award for Excellence
     organization: Princeton University - School of Engineering and Applied Sciences
     date_start: '2021-12-08'
-    description: Honor to graduate students in the School of Engineering and Applied Sciences for excelling in classes, research, teaching, and leadership. 
+    description: Honor to graduate students in the School of Engineering and Applied Sciences for excelling in classes, research, teaching, and leadership.
     organization_url: https://engineering.princeton.edu/news/2021/12/08/award-excellence-honors-graduate-student-achievement-2
     url: https://engineering.princeton.edu/news/2021/12/08/award-excellence-honors-graduate-student-achievement-2
   
