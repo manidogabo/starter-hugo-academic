@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Presentations"
+title = "Present&shy;ations"
 subtitle = ""
 
 [design]
@@ -66,4 +66,4 @@ subtitle = ""
 - <sup>&dagger;</sup>Bubble casting soft robotics, Future of Manufacturing workshop. U. Pennsylvania (virtual). Dec 2020
 - <sup>&dagger;</sup>Design and mechanics of complex inflatable networks, APS March Meeting. Denver, CO. Mar 2020
 - <sup>&dagger;</sup>All-in-one design of soft machines, APS March Meeting. Boston, MA. Mar 2019
-- <sup>&dagger;</sup>Fluid mediated elastic tentacles, MEPHiSTO. Cargese, Corsica. Aug 201
+- <sup>&dagger;</sup>Fluid mediated elastic tentacles, MEPHiSTO. Cargese, Corsica. Aug 2018
