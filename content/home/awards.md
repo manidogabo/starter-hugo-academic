@@ -25,6 +25,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+  - title: Rising Star in Soft and Biological Matter
+    organization: NSF Materials Research Science and Engineering Centers - University of Chicago and University of California, San Diego
+    date_start: '2022-10-06'
+    description: The Rising Stars in Soft and Biological Matter Symposium is a platform for exceptional early-career scientists in the broad field of soft and biological matter to present their work. The speakers are chosen for their track record of research accomplishments and demonstrated contributions to enhancing diversity, equity, and inclusion in STEM. I was chosen as a speaker for the virtual conference held on October 6-7, 2022.
+    organization_url: https://mrsec.org/
+    url: https://mrsec.uchicago.edu/rising-stars-program-application/
+
+  - title: Lighting the Pathway Fellow
+    organization: American Indian Science and Engineering Society - Lighting the Pathway to Faculty Careers for Natives in STEM (NSF)
+    date_start: '2022-09-09'
+    description: The Lighting the Pathway program provides full-circle of support to American Indians on the pathway to becoming STEM faculty. I was invited to the final cohort of Lighting the Pathway. As a fellow I recieve mentorship as I attend faculty development programs and the national AISES conference.
+    organization_url: hhttp://aises.org/
+    url: https://www.aises.org/content/lighting-pathway?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE3jLcIhc5lV_bkPOzUDjnXu74Soz97iodS25ogxK5DPqU3hgh_6_M0aAnPwEALw_wcB
+
   - title: Trailblazers in Engineering Fellow
     organization: Purdue University - College of Engineering
     date_start: '2022-07-26'
@@ -35,7 +49,7 @@ item:
   - title: Gallery of Soft Matter Award
     organization: American Physical Society - Division on Soft Matter
     date_start: '2022-03-01'
-    description: The gallery was to showcase the aesthetic and elegance of soft matter systems. I won the prize for video based on aesthetics and scientific explanation. You can check out the video on [{{< icon name="youtube" pack="fab" >}} youtube](https://www.youtube.com/watch?v=61HpWDJ1bsw) or below.
+    description: The gallery was to showcase the aesthetic and elegance of soft matter systems. I won the prize for video based on aesthetics and scientific explanation. You can check out the video on [{{< icon name="youtube" pack="fab" >}} youtube](https://www.youtube.com/watch?v=61HpWDJ1bsw).
     organization_url: https://physics.aps.org/articles/v15/41?utm_campaign=weekly&utm_medium=email&utm_source=emailalert
     url: https://physics.aps.org/articles/v15/41?utm_campaign=weekly&utm_medium=email&utm_source=emailalert
 
