@@ -56,6 +56,7 @@ subtitle = ""
 
 - <sup>&dagger;</sup><sup>&ast;</sup>March Meeting: Gallery of Soft Matter Award Session, APS DSOFT. Las Vegas, NV. Mar 2023
 - <sup>&dagger;</sup><sup>&ast;</sup>Physical Mathematics Seminar, MIT Math Department. Boston, MA. Dec 2022
+- <sup>&dagger;</sup><sup>&ast;</sup>Rising Stars in Soft and Biological Matter, NSF MRSEC at U. Chicago and U. California, SD. virtual. Oct 2022
 - <sup>&dagger;</sup>Fluid mediated soft actuators, Princeton Research Day. Princeton, NJ. May 2022
 - <sup>&dagger;</sup>Deployable structures with core-shell balloons, APS March Meeting. Chicago, IL. Mar 2022
 - Pneumatic morphorods, APS March Meeting. Chicago, IL. Mar 2022
