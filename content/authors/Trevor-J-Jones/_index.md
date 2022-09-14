@@ -76,4 +76,4 @@ My work focuses on the adaptation of 'everyday' and soft matter physics to inspi
 This curiousity-driven research aims to develop predictive models of nonlinear systems including mechanical instabilities, biology, and art.
 On the day-to-day you will find me using bubbles and balloons or beads and string as a craftman's tools to build new materials.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_2022_08_19.pdf" "newtab" >}}cv{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_tjj_2022_09_13.pdf" "newtab" >}}cv{{< /staticref >}}.
