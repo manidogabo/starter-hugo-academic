@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tjjones@princeton.edu'
+    link: 'mailto:tjjones@princeton.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Trev_J_Jones
