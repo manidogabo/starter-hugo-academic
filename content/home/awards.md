@@ -26,11 +26,11 @@ date_format: Jan 2006
 item:
 
   - title: Rising Star in Soft and Biological Matter
-    organization: NSF Materials Research Science and Engineering Centers - University of Chicago and University of California, San Diego
+    organization: NSF Materials Research Science and Engineering Centers - University of Chicago and University of California San Diego
     date_start: '2022-10-06'
     description: The Rising Stars in Soft and Biological Matter Symposium is a platform for exceptional early-career scientists in the broad field of soft and biological matter to present their work. The speakers are chosen for their track record of research accomplishments and demonstrated contributions to enhancing diversity, equity, and inclusion in STEM. I was chosen as a speaker for the virtual conference held on October 6-7, 2022.
-    organization_url: https://mrsec.org/
-    url: https://mrsec.uchicago.edu/rising-stars-program-application/
+    organization_url: https://mrsec.uchicago.edu/rising-stars-symposium/
+    url: https://mrsec.uchicago.edu/rising-stars-symposium/trevor-j-jones/
 
   - title: Lighting the Pathway Fellow
     organization: American Indian Science and Engineering Society - Lighting the Pathway to Faculty Careers for Natives in STEM (NSF)
