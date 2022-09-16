@@ -36,7 +36,7 @@ item:
     organization: American Indian Science and Engineering Society - Lighting the Pathway to Faculty Careers for Natives in STEM (NSF)
     date_start: '2022-09-09'
     description: The Lighting the Pathway program provides full-circle of support to American Indians on the pathway to becoming STEM faculty. I was invited to the final cohort of Lighting the Pathway. As a fellow I recieve mentorship as I attend faculty development programs and the national AISES conference.
-    organization_url: hhttp://aises.org/
+    organization_url: https://aises.org/
     url: https://www.aises.org/content/lighting-pathway?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE3jLcIhc5lV_bkPOzUDjnXu74Soz97iodS25ogxK5DPqU3hgh_6_M0aAnPwEALw_wcB
 
   - title: Trailblazers in Engineering Fellow
