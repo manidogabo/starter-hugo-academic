@@ -4,7 +4,7 @@
 title: Bubble casting soft robotics
 subtitle: ''
 summary: ''
-doi: '10.1038/s41567-020-0832-x'
+doi: '10.1038/s41586-021-04029-6'
 authors:
 - Trevor J Jones
 - Etienne Jambon-Puillet
