@@ -11,7 +11,7 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Carnegie Mellon University
-    url: https://www.meche.engineering.cmu.edu/directory/index.html
+    url: https://www.meche.engineering.cmu.edu/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fluids & elasticity, soft matter, and nonlinear dynamics.
