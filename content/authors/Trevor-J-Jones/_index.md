@@ -6,12 +6,12 @@ title: Trevor J Jones
 superuser: true
 
 # Role/position/tagline
-role: PhD. Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Princeton University
-    url: https://cbe.princeton.edu/people/trevor-jones
+  - name: Carnegie Mellon University
+    url: https://www.meche.engineering.cmu.edu/directory/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fluids & elasticity, soft matter, and nonlinear dynamics.
@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Chemical Engineering
       institution: Princeton University
-      year: 2023 (projected)
+      year: 2023
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
