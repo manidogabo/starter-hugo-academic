@@ -25,6 +25,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+  - title: Jui Dasgupta Outstanding Dissertation Award
+    organization: Princeton University - Department of Chemical and Biological Engineering
+    date_start: '2023-05-29'
+    description: Awarded annually to a graduating PhD student by the Chemical and Biological Engineering graduate faculty committee.
+    organization_url: https://cbe.princeton.edu/
+    url: https://cbe.princeton.edu/spotlight/trevor-jones
+
   - title: Rising Star in Soft and Biological Matter
     organization: NSF Materials Research Science and Engineering Centers - University of Chicago and University of California San Diego
     date_start: '2022-10-06'
