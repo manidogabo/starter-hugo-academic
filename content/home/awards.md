@@ -30,7 +30,7 @@ item:
     date_start: '2023-05-29'
     description: Awarded annually to a graduating PhD student by the Chemical and Biological Engineering graduate faculty committee.
     organization_url: https://cbe.princeton.edu/
-    url: https://cbe.princeton.edu/spotlight/trevor-jones
+    url: https://cbe.princeton.edu/news/creative-tenacious-work-soft-robotics-wins-departments-top-dissertation-award
 
   - title: Rising Star in Soft and Biological Matter
     organization: NSF Materials Research Science and Engineering Centers - University of Chicago and University of California San Diego
