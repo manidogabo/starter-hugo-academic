@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: tjjones@princeton.edu
+  email: tjjones@cmu.edu
 #   phone: 888 888 88 88
   address:
     street: EQuad A307
