@@ -28,15 +28,15 @@ content:
   email: tjjones@cmu.edu
 #   phone: 888 888 88 88
   address:
-    street: EQuad A307
-    city: Princeton
-    region: NJ
-    postcode: '08540'
+    street: Scaife Hall
+    city: Pittsburgh
+    region: PA
+    postcode: '15213'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '40.44191731606719'
+    longitude: '-79.94736293671625'
 #   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #   office_hours:
 #     - 'Monday 10:00 to 13:00'
